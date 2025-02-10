@@ -4,7 +4,7 @@ Para criarmos a nossa IA sem a necessidade de Internet
 
 # Vídeo
 
-[![Video_Ollama](https://img.youtube.com/vi/hDZb18TAxjc/0.jpg)](https://www.youtube.com/watch?v=hDZb18TAxjc) [Criando sua IA sem independência de internet]((https://www.youtube.com/watch?v=hDZb18TAxjc))
+[![Video_Ollama](https://img.youtube.com/vi/hDZb18TAxjc/0.jpg)](https://www.youtube.com/watch?v=hDZb18TAxjc) 
 
 
 # Instalação
