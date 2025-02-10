@@ -2,6 +2,11 @@
 
 Para criarmos a nossa IA sem a necessidade de Internet
 
+# Vídeo
+
+[![Vídeo Criando sua IA sem independência de internet](https://youtu.be/hDZb18TAxjc)]
+
+
 # Instalação
 ```
 sudo systemctl start docker
